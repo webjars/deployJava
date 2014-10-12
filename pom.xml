@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>deployJava</artifactId>
-    <version>20120801-SNAPSHOT</version>
+    <version>20120801</version>
     <name>deployJava</name>
     <description>WebJar for deployJava</description>
     <url>http://webjars.org</url>
@@ -48,7 +48,7 @@
         <url>http://github.com/webjars/deployJava</url>
         <connection>scm:git:https://github.com/webjars/deployJava.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/deployJava.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>deployJava-20120801</tag>
     </scm>
     
     <build>
